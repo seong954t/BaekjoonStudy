@@ -130,6 +130,6 @@ fabric.properties
 !/gradle/wrapper/gradle-wrapper.jar
 
 # C lang Xcode
-.xcdoeproj
+*.xcodeproj
 
 # End of https://www.gitignore.io/api/java-web
