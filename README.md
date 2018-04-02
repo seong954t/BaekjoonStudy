@@ -5,3 +5,5 @@ BaekJoon Algorithm Study for Kim Seungtae
 3036_링
 
 10430_나머지
+
+4344_평균은 넘겠지
