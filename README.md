@@ -4,6 +4,8 @@ BaekJoon Algorithm Study for Kim Seungtae
 
 1011_Fly me to the Alpha Centauri
 
+2448_별찍기-11
+
 3036_링
 
 4344_평균은 넘겠지
