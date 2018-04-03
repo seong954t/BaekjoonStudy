@@ -12,4 +12,6 @@ BaekJoon Algorithm Study for Kim Seungtae
 
 10430_나머지
 
+10546_배부른 마라토너
+
 15552_빠른A+B
