@@ -16,4 +16,6 @@ BaekJoon Algorithm Study for Kim Seungtae
 
 10546_배부른 마라토너
 
+10718_We love kriii
+
 15552_빠른A+B
