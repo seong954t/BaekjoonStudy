@@ -12,6 +12,8 @@ BaekJoon Algorithm Study for Kim Seungtae
 
 4344_평균은 넘겠지
 
+6986_절사평균
+
 10430_나머지
 
 10546_배부른 마라토너
