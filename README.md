@@ -6,6 +6,8 @@ BaekJoon Algorithm Study for Kim Seungtae
 
 1011_Fly me to the Alpha Centauri
 
+1026_DFS와 BFS
+
 1312_소수
 
 2448_별찍기-11
