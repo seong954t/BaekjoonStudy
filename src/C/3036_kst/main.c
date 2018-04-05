@@ -1,6 +1,6 @@
 //
 //  main.c
-//  kst_3036
+//  3036_kst
 //
 //  Created by 김승태 on 2018. 3. 27..
 //  Copyright © 2018년 김승태. All rights reserved.
