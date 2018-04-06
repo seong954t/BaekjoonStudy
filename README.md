@@ -12,6 +12,8 @@ BaekJoon Algorithm Study for Kim Seungtae
 
 1312_소수
 
+1735_분수 합
+
 2448_별찍기-11
 
 2557_Hello World
