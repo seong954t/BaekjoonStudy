@@ -28,4 +28,6 @@ BaekJoon Algorithm Study for Kim Seungtae
 
 10718_We love kriii
 
+10988_팰린드롬인지 확인하기
+
 15552_빠른A+B
