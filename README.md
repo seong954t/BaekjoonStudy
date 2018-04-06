@@ -32,4 +32,6 @@ BaekJoon Algorithm Study for Kim Seungtae
 
 10988_팰린드롬인지 확인하기
 
+11656_접미사 배열
+
 15552_빠른A+B
