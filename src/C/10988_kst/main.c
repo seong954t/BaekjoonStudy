@@ -2,7 +2,7 @@
 //  main.c
 //  10988_kst
 //
-//  Created by 김승태 on 2018. 4. 5..
+//  Created by 김승태 on 2018. 4. 6..
 //  Copyright © 2018년 김승태. All rights reserved.
 //
 
