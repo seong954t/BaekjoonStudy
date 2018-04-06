@@ -8,6 +8,8 @@ BaekJoon Algorithm Study for Kim Seungtae
 
 1026_DFS와 BFS
 
+1057_토너먼트
+
 1312_소수
 
 2448_별찍기-11
