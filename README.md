@@ -14,6 +14,8 @@ BaekJoon Algorithm Study for Kim Seungtae
 
 1735_분수 합
 
+2156_포도주 시식
+
 2438_별찍기-1
 
 2448_별찍기-11
