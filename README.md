@@ -22,6 +22,8 @@ BaekJoon Algorithm Study for Kim Seungtae
 
 2438_별찍기-1
 
+2440_별찍기-3
+
 2448_별찍기-11
 
 2557_Hello World
