@@ -36,6 +36,8 @@ BaekJoon Algorithm Study for Kim Seungtae
 
 4344_평균은 넘겠지
 
+4913_페르마의 크리스마스 정리
+
 6986_절사평균
 
 10430_나머지
