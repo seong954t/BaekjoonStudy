@@ -12,6 +12,8 @@ BaekJoon Algorithm Study for Kim Seungtae
 
 1312_소수
 
+1475_방 번호
+
 1629_곱셈
 
 1735_분수 합
