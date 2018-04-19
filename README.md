@@ -30,6 +30,8 @@ BaekJoon Algorithm Study for Kim Seungtae
 
 2557_Hello World
 
+2751_수 정렬하기 2
+
 2839_설탕 배달
 
 2903_중앙 이동 알고리즘
