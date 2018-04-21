@@ -28,6 +28,8 @@ BaekJoon Algorithm Study for Kim Seungtae
 
 2448_별찍기-11
 
+2504_괄호의 값
+
 2557_Hello World
 
 2751_수 정렬하기 2
