@@ -8,6 +8,8 @@ BaekJoon Algorithm Study for Kim Seungtae
 
 1026_DFS와 BFS
 
+1049_기타줄
+
 1057_토너먼트
 
 1149_RGB거리
