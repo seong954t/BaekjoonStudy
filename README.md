@@ -12,6 +12,8 @@ BaekJoon Algorithm Study for Kim Seungtae
 
 1057_토너먼트
 
+1120_문자열
+
 1149_RGB거리
 
 1312_소수
