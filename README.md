@@ -20,6 +20,8 @@ BaekJoon Algorithm Study for Kim Seungtae
 
 1475_방 번호
 
+1541_잃어버린 괄호
+
 1629_곱셈
 
 1735_분수 합
