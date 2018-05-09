@@ -32,6 +32,8 @@ BaekJoon Algorithm Study for Kim Seungtae
 
 2156_포도주 시식
 
+2352_반도체 설계
+
 2438_별찍기-1
 
 2440_별찍기-3
