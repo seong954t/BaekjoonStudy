@@ -32,6 +32,8 @@ BaekJoon Algorithm Study for Kim Seungtae
 
 1874_스택 수열
 
+1946_신입 사원
+
 2156_포도주 시식
 
 2352_반도체 설계
