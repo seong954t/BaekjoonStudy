@@ -22,6 +22,8 @@ BaekJoon Algorithm Study for Kim Seungtae
 
 1312_소수
 
+1463_1로 만들기
+
 1475_방 번호
 
 1541_잃어버린 괄호
