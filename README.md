@@ -52,6 +52,8 @@ BaekJoon Algorithm Study for Kim Seungtae
 
 2557_Hello World
 
+2741_N 찍기
+
 2751_수 정렬하기 2
 
 2839_설탕 배달
