@@ -38,6 +38,8 @@ BaekJoon Algorithm Study for Kim Seungtae
 
 1946_신입 사원
 
+2108_통계학
+
 2156_포도주 시식
 
 2352_반도체 설계
