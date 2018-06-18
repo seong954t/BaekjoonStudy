@@ -82,6 +82,8 @@ BaekJoon Algorithm Study for Kim Seungtae
 
 10718_We love kriii
 
+10844_쉬운 계단 수
+
 10988_팰린드롬인지 확인하기
 
 11047_동전 0
