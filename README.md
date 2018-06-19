@@ -6,8 +6,6 @@ BaekJoon Algorithm Study for Kim Seungtae
 
 1011_Fly me to the Alpha Centauri
 
-1026_DFS와 BFS
-
 1049_기타줄
 
 1057_토너먼트
@@ -21,6 +19,8 @@ BaekJoon Algorithm Study for Kim Seungtae
 1120_문자열
 
 1149_RGB거리
+
+1260_DFS와 BFS 
 
 1312_소수
 
