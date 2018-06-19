@@ -12,6 +12,8 @@ BaekJoon Algorithm Study for Kim Seungtae
 
 1057_토너먼트
 
+1065_한수
+
 1074_Z
 
 1080_행렬
