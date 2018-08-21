@@ -98,6 +98,8 @@ BaekJoon Algorithm Study for Kim Seungtae
 
 11047_동전 0
 
+11050_이항 계수 1
+
 11399_ATM
 
 11654_아스키 코드
