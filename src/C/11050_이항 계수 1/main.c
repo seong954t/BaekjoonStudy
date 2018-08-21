@@ -1,6 +1,6 @@
 //
 //  main.c
-//  111050_kst
+//  11050_kst
 //
 //  Created by 김승태 on 2018. 8. 21..
 //  Copyright © 2018년 김승태. All rights reserved.
