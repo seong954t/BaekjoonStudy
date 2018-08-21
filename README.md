@@ -78,6 +78,8 @@ BaekJoon Algorithm Study for Kim Seungtae
 
 6986_절사평균
 
+10172_개
+
 10250_ACM 호텔
 
 10430_나머지
